@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>5 Best Tourist Places to Visit</title>
+</head>
+<body>
+    <h1 style="text-align: center; background-color: #333; color: #fff; padding: 20px 0; margin: 0;">5 Best Tourist Places to Visit</h1>
+    <ul>
+        <li><a href="#place1">Paris, France</a></li>
+        <li><a href="#place2">London, England</a></li>
+        <li><a href="#place3">Rome, Italy</a></li>
+        <li><a href="#place4">New York City, USA</a></li>
+        <li><a href="#place5">Tokyo, Japan</a></li>
+    </ul>
+
+    <ol>
+        <li>
+            <h2 id="place1">Paris, France</h2>
+            <img src="paris.jpg" alt="Paris, France" width="25%" height="auto">
+            <p>Paris, the capital of France, is considered the most romantic destination in the world and one of the best places to visit. Paris offers historical monuments, vintage palaces, art museums, cathedrals, landscaped gardens and plenty of shopping areas. The Eiffel Tower, the most-visited tourist attraction in the world, stands at a staggering height of over 300 metres. From its iconic Eiffel Tower to its world-famous museums and galleries, Paris has something for everyone.</p>
+        </li>
+        <li>
+            <h2 id="place2">London, England</h2>
+            <img src="London1.jpg" alt="London, England" width="25%" height="auto">
+            <p>London, the capital of England, is the most visited city in Europe. London, one of the best places in the world, is home to the royal family. One of the most diverse cities in the world, with a rich history and culture, London has several tourist attractions, museums, parks, cultural exhibits, and adventures. Worth visiting are Buckingham Palace, the Westminster Abbey, St. Paul’s Cathedral, and the London Eye. Other attractions include Warner Bros Studio Tour London – The Making of Harry Potter, Big Ben, and Madame Tussauds.</p>
+        </li>
+        <li>
+            <h2 id="place3">Rome, Italy</h2>
+            <img src="Rome.jpg" alt="Rome, Italy" width="25%" height="auto">
+            <p>Rome is one of the best tourist places in the world to visit due to its archaeological and art treasures, its beautiful panoramic views, and its magnificent ‘villas’ (parks). It has some world-famous places to visit such as the Colosseum and St. Peter’s Basilica. The Colosseum, inaugurated in 80 AD, is the largest amphitheatre built during the Roman Empire.</p>
+        </li>
+        <li>
+            <h2 id="place4">New York City, USA</h2>
+            <img src="Newyork.jpg" alt="New York City, USA" width="25%" height="auto">
+            <p>New York City, USA, is a world-famous tourist place, a cultural hub, a shopping paradise, a haven for artists, and a culinary hotspot. Worth visiting are the Statue of Liberty (305 ft tall), the Empire State Building, Times Square, Brooklyn Bridge, and various museums. The American Museum of Natural History features exhibits from dinosaur skeletons to historical human artifacts. Do visit Central Park, which spans over 800 acres and is skirted by skyscrapers and enjoy delicious candies at Hershey’s Chocolate World. Many of the best places to visit in New York are within a short distance of each other at walking distance or a short ride away.</p>
+        </li>
+        <li>
+            <h2 id="place5">Tokyo, Japan</h2>
+            <img src="Tokyo1.jpg" alt="Tokyo, Japan" width="25%" height="auto">
+            <p>Tokyo is known for its historic shrines and temples, and performing arts such as Noh, Kabuki, and Rakugo, which have been enjoyed for centuries. Major venues which celebrate Japanese cultural traditions include the Kabukiza Theatre, the National Noh Theatre, and the Kokugikan Hall. It is also renowned for new trends in fashion, music, art, technology, and animation, and as a cultural center for creators in Japan and beyond.</p>
+        </li>
+    </ol>
+    <table style="margin: 0 auto; width: 50%; border-collapse: collapse;">
+        <thead>
+            <tr>
+                <th style="border: 1px solid black;">Place</th>
+                <th style="border: 1px solid black;">Location</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td style="border: 1px solid black;">Paris</td>
+                <td style="border: 1px solid black;">France</td>
+            </tr>
+            <tr>
+                <td style="border: 1px solid black;">London</td>
+                <td style="border: 1px solid black;">England</td>
+            </tr>
+            <tr>
+                <td style="border: 1px solid black;">Rome</td>
+                <td style="border: 1px solid black;">Italy</td>
+            </tr>
+            <tr>
+                <td style="border: 1px solid black;">New York City</td>
+                <td style="border: 1px solid black;">USA</td>
+            </tr>
+            <tr>
+                <td style="border: 1px solid black;">Tokyo</td>
+                <td style="border: 1px solid black;">Japan</td>
+            </tr>
+        </tbody>
+    </table>
+    <div class="contact-info" style="background-color: #333; color: #fff; padding: 10px; text-align: center;">
+        <h2>Contact Information</h2>
+        <p>Email: raytour@gmail.com</p>
+        <p>Phone: +1 (123) 456-7890</p>
+    </div>
+</body>
+</html>
